@@ -42,7 +42,7 @@ We use *docker* to generate the mongoDB container. Use following command:
 Once the application will be running, you should got the next containers:
 
 ````
-    - mongo     # With the database
+    - mongodb     # With the database
 ```` 
 
 # Test
