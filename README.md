@@ -12,4 +12,5 @@ It is necessary to run the modules in the next order for the architecture to wor
 3. Gateway Service
 4. Node Service
 
-More information can be found in the README.md of each module, especially in the node microservice.
+More information can be found in the README.md of each module, especially in the node microservice.  
+All modules should be imported as a maven projects.
