@@ -29,9 +29,9 @@ Both entities are stored in the same collection called *node*.
 # Requirements
 Yo should got installed *docker*.  
 To run the application correctly it is necessary to have first deployed the other components of the project:
-1. Config Server (https://github.com/nachorguezz/spring_cloud_example_WebFluxRecursive/tree/main/springcloud_configServer)
-2. Discovery Service (https://github.com/nachorguezz/spring_cloud_example_WebFluxRecursive/tree/main/springcloud_discoveryService)
-3. Gateway Service (https://github.com/nachorguezz/spring_cloud_example_WebFluxRecursive/tree/main/springcloud_gatewayService)
+1. Config Server (https://github.com/nachorguezz/spring_cloud_example/tree/main/springcloud_configServer)
+2. Discovery Service (https://github.com/nachorguezz/spring_cloud_example/tree/main/springcloud_discoveryService)
+3. Gateway Service (https://github.com/nachorguezz/spring_cloud_example/tree/main/springcloud_gatewayService)
 
 # Instalation
 We use *docker* to generate the mongoDB container. Use following command:
